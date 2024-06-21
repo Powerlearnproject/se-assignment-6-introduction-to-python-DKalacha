@@ -60,7 +60,7 @@ Installing Python on Windows
 1. Download Python Installer:
    - Visit the official Python website at [python.org](https://www.python.org/).
    - Navigate to the Downloads section and select "Windows."
-   - Download the latest Python installer executable (e.g., `python-3.x.x.exe`).
+   - Download the latest Python installer executable (e.g., `python-3.12.3.exe`).
 
 2. Run the Installer:
    - Locate the downloaded file and double-click to run the installer.
@@ -72,7 +72,7 @@ Installing Python on Windows
 
 Verifying the Installation
 
-1. Open Command Prompt:
+1. Open Command Prompt or git bash:
    - Press `Win + R`, type `cmd`, and press Enter to open the Command Prompt.
 
 2. Check Python Version:
